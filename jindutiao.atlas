@@ -1,0 +1,125 @@
+
+jindutiao.png
+size: 1439, 193
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+image_065_0000
+  rotate: false
+  xy: 2, 98
+  size: 153, 93
+  orig: 168, 111
+  offset: 11, 9
+  index: -1
+image_065_0001
+  rotate: false
+  xy: 1001, 2
+  size: 164, 94
+  orig: 174, 111
+  offset: 6, 9
+  index: -1
+image_065_0002
+  rotate: false
+  xy: 157, 98
+  size: 169, 93
+  orig: 175, 111
+  offset: 2, 9
+  index: -1
+image_065_0003
+  rotate: false
+  xy: 328, 98
+  size: 169, 93
+  orig: 175, 111
+  offset: 2, 9
+  index: -1
+image_065_0004
+  rotate: false
+  xy: 499, 98
+  size: 163, 93
+  orig: 173, 111
+  offset: 6, 9
+  index: -1
+image_065_0005
+  rotate: false
+  xy: 664, 98
+  size: 169, 93
+  orig: 175, 111
+  offset: 2, 9
+  index: -1
+image_065_0006
+  rotate: false
+  xy: 835, 98
+  size: 169, 93
+  orig: 175, 111
+  offset: 2, 9
+  index: -1
+image_065_0007
+  rotate: false
+  xy: 1006, 98
+  size: 169, 93
+  orig: 175, 111
+  offset: 2, 9
+  index: -1
+image_065_0008
+  rotate: false
+  xy: 1177, 98
+  size: 165, 93
+  orig: 174, 111
+  offset: 5, 9
+  index: -1
+image_065_0009
+  rotate: false
+  xy: 2, 3
+  size: 168, 93
+  orig: 174, 111
+  offset: 2, 9
+  index: -1
+image_065_0010
+  rotate: true
+  xy: 1344, 45
+  size: 146, 93
+  orig: 173, 111
+  offset: 23, 9
+  index: -1
+image_065_0011
+  rotate: false
+  xy: 172, 3
+  size: 157, 93
+  orig: 172, 111
+  offset: 11, 9
+  index: -1
+image_065_0012
+  rotate: false
+  xy: 1167, 2
+  size: 168, 94
+  orig: 174, 111
+  offset: 2, 9
+  index: -1
+image_065_0013
+  rotate: false
+  xy: 331, 3
+  size: 169, 93
+  orig: 175, 111
+  offset: 2, 9
+  index: -1
+image_065_0014
+  rotate: false
+  xy: 502, 3
+  size: 159, 93
+  orig: 174, 111
+  offset: 11, 9
+  index: -1
+image_065_0015
+  rotate: false
+  xy: 663, 3
+  size: 165, 93
+  orig: 174, 111
+  offset: 5, 9
+  index: -1
+image_065_0016
+  rotate: false
+  xy: 830, 3
+  size: 169, 93
+  orig: 175, 111
+  offset: 2, 9
+  index: -1

@@ -1,0 +1,146 @@
+
+hjths.png
+size: 1297, 508
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+image_051_0001
+  rotate: true
+  xy: 1203, 47
+  size: 316, 91
+  orig: 318, 96
+  offset: 1, 1
+  index: -1
+image_051_0002
+  rotate: false
+  xy: 802, 24
+  size: 360, 78
+  orig: 363, 80
+  offset: 1, 1
+  index: -1
+image_051_0003
+  rotate: false
+  xy: 409, 130
+  size: 395, 62
+  orig: 398, 64
+  offset: 1, 1
+  index: -1
+image_051_0004
+  rotate: false
+  xy: 2, 5
+  size: 395, 83
+  orig: 398, 94
+  offset: 1, 5
+  index: -1
+image_051_0005
+  rotate: false
+  xy: 409, 267
+  size: 395, 71
+  orig: 398, 78
+  offset: 1, 3
+  index: -1
+image_051_0006
+  rotate: false
+  xy: 405, 66
+  size: 395, 62
+  orig: 398, 64
+  offset: 1, 1
+  index: -1
+image_051_0007
+  rotate: false
+  xy: 399, 2
+  size: 395, 62
+  orig: 400, 64
+  offset: 1, 1
+  index: -1
+image_051_0008
+  rotate: false
+  xy: 2, 302
+  size: 404, 119
+  orig: 412, 124
+  offset: 1, 4
+  index: -1
+image_051_0009
+  rotate: false
+  xy: 2, 186
+  size: 405, 114
+  orig: 411, 121
+  offset: 1, 6
+  index: -1
+image_051_0010
+  rotate: false
+  xy: 2, 90
+  size: 401, 94
+  orig: 405, 101
+  offset: 1, 4
+  index: -1
+image_051_0011
+  rotate: false
+  xy: 409, 194
+  size: 395, 71
+  orig: 400, 76
+  offset: 1, 3
+  index: -1
+image_051_0012
+  rotate: false
+  xy: 464, 418
+  size: 415, 88
+  orig: 421, 103
+  offset: 1, 7
+  index: -1
+image_051_0013
+  rotate: false
+  xy: 881, 429
+  size: 414, 77
+  orig: 417, 86
+  offset: 1, 7
+  index: -1
+image_051_0014
+  rotate: false
+  xy: 881, 365
+  size: 401, 62
+  orig: 407, 67
+  offset: 1, 4
+  index: -1
+image_051_0015
+  rotate: false
+  xy: 806, 230
+  size: 395, 64
+  orig: 398, 69
+  offset: 1, 4
+  index: -1
+image_051_0016
+  rotate: false
+  xy: 408, 340
+  size: 395, 76
+  orig: 398, 82
+  offset: 1, 2
+  index: -1
+image_051_0017
+  rotate: false
+  xy: 806, 296
+  size: 395, 67
+  orig: 398, 69
+  offset: 1, 1
+  index: -1
+image_051_0018
+  rotate: false
+  xy: 806, 167
+  size: 395, 61
+  orig: 398, 64
+  offset: 1, 1
+  index: -1
+image_051_0019
+  rotate: false
+  xy: 806, 104
+  size: 395, 61
+  orig: 398, 64
+  offset: 1, 1
+  index: -1
+image_051_0020
+  rotate: false
+  xy: 2, 423
+  size: 460, 83
+  orig: 462, 102
+  offset: 1, 4
+  index: -1

@@ -1,0 +1,146 @@
+
+shunzi.png
+size: 970, 262
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+image_057_0001
+  rotate: false
+  xy: 728, 2
+  size: 192, 50
+  orig: 194, 52
+  offset: 1, 1
+  index: -1
+image_057_0002
+  rotate: false
+  xy: 728, 54
+  size: 219, 50
+  orig: 221, 52
+  offset: 1, 1
+  index: -1
+image_057_0003
+  rotate: false
+  xy: 2, 210
+  size: 240, 50
+  orig: 242, 52
+  offset: 1, 1
+  index: -1
+image_057_0004
+  rotate: false
+  xy: 2, 158
+  size: 240, 50
+  orig: 242, 52
+  offset: 1, 1
+  index: -1
+image_057_0005
+  rotate: false
+  xy: 244, 210
+  size: 240, 50
+  orig: 242, 52
+  offset: 1, 1
+  index: -1
+image_057_0006
+  rotate: false
+  xy: 2, 106
+  size: 240, 50
+  orig: 242, 52
+  offset: 1, 1
+  index: -1
+image_057_0007
+  rotate: false
+  xy: 244, 158
+  size: 240, 50
+  orig: 242, 52
+  offset: 1, 1
+  index: -1
+image_057_0008
+  rotate: false
+  xy: 486, 210
+  size: 240, 50
+  orig: 242, 52
+  offset: 1, 1
+  index: -1
+image_057_0009
+  rotate: false
+  xy: 2, 54
+  size: 240, 50
+  orig: 242, 52
+  offset: 1, 1
+  index: -1
+image_057_0010
+  rotate: false
+  xy: 244, 106
+  size: 240, 50
+  orig: 242, 52
+  offset: 1, 1
+  index: -1
+image_057_0011
+  rotate: false
+  xy: 486, 158
+  size: 240, 50
+  orig: 242, 52
+  offset: 1, 1
+  index: -1
+image_057_0012
+  rotate: false
+  xy: 728, 210
+  size: 240, 50
+  orig: 242, 52
+  offset: 1, 1
+  index: -1
+image_057_0013
+  rotate: false
+  xy: 2, 2
+  size: 240, 50
+  orig: 242, 52
+  offset: 1, 1
+  index: -1
+image_057_0014
+  rotate: false
+  xy: 244, 54
+  size: 240, 50
+  orig: 242, 52
+  offset: 1, 1
+  index: -1
+image_057_0015
+  rotate: false
+  xy: 486, 106
+  size: 240, 50
+  orig: 242, 52
+  offset: 1, 1
+  index: -1
+image_057_0016
+  rotate: false
+  xy: 728, 158
+  size: 240, 50
+  orig: 242, 52
+  offset: 1, 1
+  index: -1
+image_057_0017
+  rotate: false
+  xy: 244, 2
+  size: 240, 50
+  orig: 242, 52
+  offset: 1, 1
+  index: -1
+image_057_0018
+  rotate: false
+  xy: 486, 54
+  size: 240, 50
+  orig: 242, 52
+  offset: 1, 1
+  index: -1
+image_057_0019
+  rotate: false
+  xy: 728, 106
+  size: 240, 50
+  orig: 242, 52
+  offset: 1, 1
+  index: -1
+image_057_0020
+  rotate: false
+  xy: 486, 2
+  size: 240, 50
+  orig: 242, 52
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,125 @@
+
+daojishi.png
+size: 1583, 354
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+image_044_0000
+  rotate: false
+  xy: 2, 178
+  size: 174, 174
+  orig: 176, 176
+  offset: 1, 1
+  index: -1
+image_044_0001
+  rotate: false
+  xy: 2, 2
+  size: 174, 174
+  orig: 176, 176
+  offset: 1, 1
+  index: -1
+image_044_0002
+  rotate: false
+  xy: 178, 178
+  size: 174, 174
+  orig: 176, 176
+  offset: 1, 1
+  index: -1
+image_044_0003
+  rotate: false
+  xy: 178, 2
+  size: 174, 174
+  orig: 176, 176
+  offset: 1, 1
+  index: -1
+image_044_0004
+  rotate: false
+  xy: 354, 178
+  size: 174, 174
+  orig: 176, 176
+  offset: 1, 1
+  index: -1
+image_044_0005
+  rotate: false
+  xy: 354, 2
+  size: 174, 174
+  orig: 176, 176
+  offset: 1, 1
+  index: -1
+image_044_0006
+  rotate: false
+  xy: 530, 178
+  size: 174, 174
+  orig: 176, 176
+  offset: 1, 1
+  index: -1
+image_044_0007
+  rotate: false
+  xy: 530, 2
+  size: 174, 174
+  orig: 176, 176
+  offset: 1, 1
+  index: -1
+image_044_0008
+  rotate: false
+  xy: 706, 178
+  size: 174, 174
+  orig: 176, 176
+  offset: 1, 1
+  index: -1
+image_044_0009
+  rotate: false
+  xy: 1058, 2
+  size: 173, 174
+  orig: 175, 176
+  offset: 1, 1
+  index: -1
+image_044_0010
+  rotate: false
+  xy: 1233, 2
+  size: 173, 174
+  orig: 175, 176
+  offset: 1, 1
+  index: -1
+image_044_0011
+  rotate: false
+  xy: 1234, 178
+  size: 173, 174
+  orig: 175, 176
+  offset: 1, 1
+  index: -1
+image_044_0012
+  rotate: false
+  xy: 1408, 2
+  size: 173, 174
+  orig: 175, 176
+  offset: 1, 1
+  index: -1
+image_044_0013
+  rotate: false
+  xy: 706, 2
+  size: 174, 174
+  orig: 176, 176
+  offset: 1, 1
+  index: -1
+image_044_0014
+  rotate: false
+  xy: 882, 178
+  size: 174, 174
+  orig: 176, 176
+  offset: 1, 1
+  index: -1
+image_044_0015
+  rotate: false
+  xy: 882, 2
+  size: 174, 174
+  orig: 176, 176
+  offset: 1, 1
+  index: -1
+image_044_0016
+  rotate: false
+  xy: 1058, 178
+  size: 174, 174
+  orig: 176, 176
+  offset: 1, 1
+  index: -1

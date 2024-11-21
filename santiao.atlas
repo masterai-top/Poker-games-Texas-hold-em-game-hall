@@ -1,0 +1,146 @@
+
+santiao.png
+size: 970, 262
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+image_061_0001
+  rotate: false
+  xy: 728, 2
+  size: 192, 50
+  orig: 194, 52
+  offset: 1, 1
+  index: -1
+image_061_0002
+  rotate: false
+  xy: 728, 54
+  size: 219, 50
+  orig: 221, 52
+  offset: 1, 1
+  index: -1
+image_061_0003
+  rotate: false
+  xy: 2, 210
+  size: 240, 50
+  orig: 242, 52
+  offset: 1, 1
+  index: -1
+image_061_0004
+  rotate: false
+  xy: 2, 158
+  size: 240, 50
+  orig: 242, 52
+  offset: 1, 1
+  index: -1
+image_061_0005
+  rotate: false
+  xy: 244, 210
+  size: 240, 50
+  orig: 242, 52
+  offset: 1, 1
+  index: -1
+image_061_0006
+  rotate: false
+  xy: 2, 106
+  size: 240, 50
+  orig: 242, 52
+  offset: 1, 1
+  index: -1
+image_061_0007
+  rotate: false
+  xy: 244, 158
+  size: 240, 50
+  orig: 242, 52
+  offset: 1, 1
+  index: -1
+image_061_0008
+  rotate: false
+  xy: 486, 210
+  size: 240, 50
+  orig: 242, 52
+  offset: 1, 1
+  index: -1
+image_061_0009
+  rotate: false
+  xy: 2, 54
+  size: 240, 50
+  orig: 242, 52
+  offset: 1, 1
+  index: -1
+image_061_0010
+  rotate: false
+  xy: 244, 106
+  size: 240, 50
+  orig: 242, 52
+  offset: 1, 1
+  index: -1
+image_061_0011
+  rotate: false
+  xy: 486, 158
+  size: 240, 50
+  orig: 242, 52
+  offset: 1, 1
+  index: -1
+image_061_0012
+  rotate: false
+  xy: 728, 210
+  size: 240, 50
+  orig: 242, 52
+  offset: 1, 1
+  index: -1
+image_061_0013
+  rotate: false
+  xy: 2, 2
+  size: 240, 50
+  orig: 242, 52
+  offset: 1, 1
+  index: -1
+image_061_0014
+  rotate: false
+  xy: 244, 54
+  size: 240, 50
+  orig: 242, 52
+  offset: 1, 1
+  index: -1
+image_061_0015
+  rotate: false
+  xy: 486, 106
+  size: 240, 50
+  orig: 242, 52
+  offset: 1, 1
+  index: -1
+image_061_0016
+  rotate: false
+  xy: 728, 158
+  size: 240, 50
+  orig: 242, 52
+  offset: 1, 1
+  index: -1
+image_061_0017
+  rotate: false
+  xy: 244, 2
+  size: 240, 50
+  orig: 242, 52
+  offset: 1, 1
+  index: -1
+image_061_0018
+  rotate: false
+  xy: 486, 54
+  size: 240, 50
+  orig: 242, 52
+  offset: 1, 1
+  index: -1
+image_061_0019
+  rotate: false
+  xy: 728, 106
+  size: 240, 50
+  orig: 242, 52
+  offset: 1, 1
+  index: -1
+image_061_0020
+  rotate: false
+  xy: 486, 2
+  size: 240, 50
+  orig: 242, 52
+  offset: 1, 1
+  index: -1
