@@ -1,4 +1,4 @@
-德州游戏APP源码出售， 客户端+服务器+后台整套源码；  支持大陆地区在线德州游戏售票，类似CPG的德州线上打门牌的APP，功能齐全，产品稳定，可提交上线iOS商店；有意购买全套代码者，联想telegram:@xuzongbin001
+德州游戏APP源码出售， 客户端+服务器+后台整套源码；  支持大陆地区在线德州游戏售票，类似CPG的德州线上打门牌的APP，功能齐全，产品稳定，可提交上线iOS商店；有意购买全套代码者，telegram:@xuzongbin001
 ![微信图片_20240411153035](https://github.com/user-attachments/assets/0e272bd0-ee30-4608-b435-bb28986e89fd)
 
 ![亮牌](https://github.com/user-attachments/assets/1583c72e-8918-4606-8238-e9eacccbf3a5)
