@@ -1,0 +1,8 @@
+module DaqiGame
+{
+    enum ResCodeEnum
+	{
+        SUCCESS   = 0,   //正常
+
+    };
+};

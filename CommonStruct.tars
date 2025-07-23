@@ -1,0 +1,151 @@
+module DaqiGame
+{
+	enum ActionName
+	{
+		//CONF_GET_VALUE_BY_KEY = 0,		     // 通过key值获取value
+		//CONF_LIST_CONFIG_BY_KEY_GROUP = 1,         // 通过key组名值获取config列表
+		//CONF_LIST_GAME_CONF_BY_GAME_ID = 2,        // 通过gameId获取游戏配置列表
+		//CONF_LIST_CONF_BY_KEY_LIST = 3,            // 通过key列表批量获取config列表
+		CONF_LIST_GAME_ROOM_CLIENT = 4,              // 通过游戏id列表批量获取游戏房间配置列表给客户端
+		//CONF_LIST_LONG_TEXT_BY_TYPE = 5,           // 通过类型获取长文本列表
+		//CONF_LIST_ANNOUNCEMENT_BASE = 6,           // 获取公告基础列表
+		//CONF_GET_ANNOUNCEMENT_BY_ID = 7,           // 通过公告id获取公告内容
+		//CONF_LIST_PRODUCT_BY_GAIN_TYPE = 8,        // 根据购买类型获取商城商品配置
+		//CONF_LIST_ACTIVITY_AWARD_BY_ID_LIST = 9,   // 根据id列表获取活动奖励
+		//CONF_GET_ACTIVITY_AWARD_BY_ID = 10,        // 根据id获取活动奖励
+		//CONF_LIST_GAME_ROOM_DETAIL = 11,           // 获取场次列表
+		//CONF_GET_LATEST_VERSION = 12,              // 获取最新的版本信息
+		//CONF_LIST_CLUB_GAME_CONF_BY_GAME_ID = 13,  // 通过gameId获取俱乐部游戏配置列表
+		//CONF_LIST_CLUB_OPTION_DESCRIPTION = 14,    // 获取俱乐部玩法选项描述
+
+		//DYN_GET_DESK_CONF_BY_ROOM_ID = 50,          // 通过服务id和roomid获取桌子配置
+		//DYN_LIST_DESK_INFO_BY_DESK_ID_LIST = 51,    // 通过桌子id列表获取桌子信息列表
+
+		//MATCH_LIST_CURRENT_MATCH = 100,               // 获取当前参赛列表
+		//MATCH_LIST_MATCH_AWARD_BY_MATCH_ID = 101,     // 根据比赛id获取奖品列表
+		//MATCH_BATCH_GET_MATCH_ID_AND_PLAYERS = 102,   // 批量获取比赛id与参数人数
+		//MATCH_LIST_MATCH_CONFIG_GAME = 103,           // 查询比赛游戏配置列表
+		//MATCH_GET_MATCH_KNOCK_OUT_INFO = 104,         // 查询比赛退赛信息
+                //MATCH_COUNT_MATCH_RECORD = 105,               // 获取比赛记录总数
+                //MATCH_LIST_MATCH_RECORD = 106,                // 获取比赛记录列表
+                //MATCH_GET_MATCH_RESULT = 107,                 // 获取比赛结果
+                //MATCH_GET_USER_STATUS_ON_MATCH = 108,         // 获取用户所在比赛的状态
+                //MATCH_GET_ROOM_ID_BY_TEMPLATE_ID = 109,       // 根据模板id获取roomId
+
+		//LOGIN_GUEST = 150,                     // 游客登录
+		//LOGIN_WECHAT = 151,                    // 微信登录
+		//LOGIN_CACHE = 152,                     // 缓存登录
+		LOGIN_LOGOUT = 153,                      // 登出
+		LOGIN_DEVICE = 154,                      // 设备登录
+		//LOGIN_PHONE_ACCOUNT = 155,             // 手机账号登录
+		//LOGIN_PHONE_ACCOUNT_CACHE = 156,       // 手机账号缓存登录
+		//LOGIN_PHONE_ACCOUNT_LIST = 157,        // 手机账号登录列表
+		//LOGIN_PHONE_ACCOUNT_DELETE = 158,      // 删除手机账号
+
+		USER_GET_USER_DETAIL = 200,                    // 获取用户详情
+		USER_GET_USER_BASIC = 201,                     // 获取用户基本信息
+		USER_GET_USERACCOUNT = 202,                    // 获取用户账户
+		//USER_UPDATE_USER_REAL_NAME = 203,            // 实名认证
+		//USER_BIND_AGENT = 204,                       // 绑定代理
+		//USER_MODIFY_SAFE_GOLD = 205,                 // 修改保险箱金币
+		USER_TRANSFER_ACCOUNT = 206,                   // 转账
+		USER_LIST_USER_BASIC = 207,                    // 批量获取用户基本信息
+		USER_UPDATE_USER_SIGNATURE = 208,              // 修改个性签名
+		//USER_SEND_PHONE_CODE = 209,                  // 发送手机验证码
+		//USER_UPDATE_USER_BASIC = 210,                  // 修改用户基本信息, 头像、性别、昵称
+		//USER_UPDATE_PHONE_PASSWORD = 211,            // 修改用户手机账号密码
+		//USER_BIND_PHONE_ACCOUNT = 212,               // 绑定手机账号
+		USER_REQUEST_ROUTER_ADDR = 213,                // 请求网关地址信息
+
+		//ROOM_CREATE_ROOM = 250,                       // 开房
+		//ROOM_COUNT_ROOM_RECORD = 251,                 // 获取用户房间记录总数
+		//ROOM_LIST_ROOM_RECORD = 252,                  // 获取房间列表
+		//ROOM_GET_ROOM_ROUND_DETAIL = 253,             // 获取房间的各局战绩详情
+		//ROOM_GET_ROOM_TOTAL_RESULT = 254,             // 获取房间总战绩
+		//ROOM_GET_ROOM_RECORD_CONFIG = 255,            // 获取房间玩法配置
+		//ROOM_GET_ROOM_ID_BY_ROOM_KEY = 256,           // 根据roomKey获取roomId
+		//ROOM_GET_VIDEO_ADDRESS_BY_SHARE_CODE = 257,   // 根据分享码获取录像地址
+		//ROOM_GET_CURRENT_ROOM_CONFIG = 258,           // 获取当前房间配置
+
+		//ACTIVITY_GET_SIGN_IN = 300,             // 获取签到信息
+		//ACTIVITY_SIGN_IN = 301,                 // 签到
+		//ACTIVITY_SHARE = 302,                   // 用户分享
+
+		//FILE_UPLOAD_FILE = 350,                 // 上传文件
+
+		//MAP_GET_ROOM_STATUS_OF_USER = 400,      // 获取用户所在房间状态
+
+		//ORDER_CREATE_ORDER = 450,               // 创建订单
+		//ORDER_GET_ORDER_STATUS = 451,           // 查询订单状态
+
+		//CLUB_INFO_COUNT_CLUB = 500,            // 获取用户俱乐部总数
+		//CLUB_INFO_LIST_CLUB = 501,             // 获取俱乐部列表
+		//CLUB_INFO_CREATE_CLUB = 502,           // 创建俱乐部
+		//CLUB_INFO_JOIN_CLUB = 503,             // 加入俱乐部
+		//CLUB_INFO_EXIT_CLUB = 504,             // 退出俱乐部
+		//CLUB_INFO_GET_CLUB_DETAIL = 505,       // 获取俱乐部详情
+		//CLUB_INFO_UPDATE_CLUB = 506,           // 更新俱乐部
+		//CLUB_INFO_DISMISS_CLUB = 507,          // 解散俱乐部
+		//CLUB_INFO_GET_CLUB_BASIC = 508,        // 获取俱乐部概要
+		//CLUB_INFO_GET_CLUB_ACCOUNT = 509,      // 获取俱乐部账户
+		//CLUB_INFO_RECHARGE_CLUB_ACCOUNT = 510, // 充值俱乐部
+		//CLUB_INFO_LIST_USER_APPLY = 511,       // 获取用户申请列表
+		//CLUB_INFO_UPDATE_APPLY = 512,          // 更新用户申请
+		//CLUB_INFO_LIST_ALL_USER = 513,         // 获取成员列表
+		//CLUB_INFO_UPDATE_MEMBER_TYPE = 514,    // 变更成员类型
+		//CLUB_INFO_KICKOUT_USER = 515,          // 踢出成员
+		//CLUB_INFO_GET_CLUB_ROLE = 516,         // 获取俱乐部角色
+
+		//CLUB_ROOM_CREATE_CLUB_ROOM_CONFIG = 550,          // 创建俱乐部房间玩法
+		//CLUB_ROOM_UPDATE_CLUB_ROOM_CONFIG = 551,          // 更新俱乐部房间玩法
+		//CLUB_ROOM_DELETE_CLUB_ROOM_CONFIG = 552,          // 删除俱乐部房间玩法
+		//CLUB_ROOM_LIST_CLUB_ROOM_CONFIG = 553,            // 获取俱乐部房间玩法列表
+		//CLUB_ROOM_COUNT_CLUB_ROOM_RECORD = 554,           // 获取俱乐部房间记录总数
+		//CLUB_ROOM_LIST_CLUB_ROOM_RECORD = 555,            // 获取俱乐部房间记录
+		//CLUB_ROOM_COUNT_OWNER_CLUB_ROOM_RECORD = 556,     // 获取俱乐部群主房间记录总数
+		//CLUB_ROOM_LIST_OWNER_CLUB_ROOM_RECORD = 557,      // 获取俱乐部群主房间记录
+		//CLUB_ROOM_GET_CLUB_ROOM_ROUND_DETAIL = 558,       // 获取俱乐部房间的各局战绩详情
+		//CLUB_ROOM_GET_CLUB_ROOM_TOTAL_RESULT = 559,       // 获取俱乐部房间总战绩
+		//CLUB_ROOM_GET_CLUB_VIDEO_ADDRESS = 560,           // 获取俱乐部录像
+		//CLUB_ROOM_LIST_CLUB_BEGIN_DESK_ID = 561,          // 查询俱乐部当前桌子ID列表
+        //CLUB_ROOM_LIST_CLUB_BEGIN_DESK_DETAIL = 562,      // 查询俱乐部已开始桌子信息
+        //CLUB_ROOM_GET_CLUB_ROOM_CONFIG = 563,             // 查询俱乐部部房间玩法
+
+		//CLUB_DYNAMIC_LIST_CLUB_CURRENT_DESK = 600,        // 查询俱乐部当前桌子信息
+		//CLUB_DYNAMIC_DISMISS_CLUB_CURRENT_DESK = 601,     // 解散俱乐部当前桌子信息
+
+		//STATISTIC_LIST_TOTAL_GOLD_RANK = 650,             // 查询金币财富榜
+		//STATISTIC_LIST_DAILY_WIN_GOLD_RANK = 651,         // 查询日赚金币榜
+        //HISTORY_COUNT_TRANSFER_RECORD = 700,              // 查询历史转账记录总数
+        //HISTORY_LIST_TRANSFER_RECORD = 701,               // 查询历史转账记录列表
+	};
+
+	// 服务请求头
+	struct CommonReqHead
+	{
+		0 require ActionName actionName;	    // 请求动作名
+		1 optional vector<byte> reqBodyBytes;	// 请求数据体
+	};
+
+	// 服务应答头
+	struct CommonRespHead
+	{
+		0 require int resultCode;	            // 请求结果码
+		1 optional vector<byte> respBodyBytes;	// 返回数据体
+	};
+
+	//推送消息
+	enum PushMessageType
+    {
+        USER_ACCOUNT_CHANGE = 10000,	   // 用户账户变化（即财富）
+        USER_EXIT_ROOM = 10001,		       // 用户退出room
+        USER_EXIT_MATCH = 10002,		   // 用户退出比赛
+        CLUB_USER_STATUS_CHANGE = 10100,   // 用户所在的俱乐部会员类型发生变化(管理员与普通会员)，附带: string类型的俱乐部id
+        CLUB_USER_JOIN = 10101,		       // 用户加入俱乐部，附带: 俱乐部id:用户id
+        CLUB_USER_KICKOUT = 10102,		   // 用户被踢出俱乐部，附带: 俱乐部id
+        CLUB_CONFIG_CHANGE = 10103,		   // 俱乐部配置发生变化，附带: string类型的配置id
+        CLUB_INFO_CHANGE = 10104,		   // 俱乐部基础信息发生变化（名称或公告）, 附带: 俱乐部id
+        CLUB_DISMISS = 10105,		       // 俱乐部被解散，附带: string类型的俱乐部id
+        CLUB_USER_EXIT = 10106,		       // 用户退出俱乐部，附带: 俱乐部id:用户id
+    };
+};
